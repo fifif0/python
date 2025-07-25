@@ -1,4 +1,4 @@
-PCAP – Programming Essentials in Python
+## PCAP – Programming Essentials in Python
 
 Repozytorium zawiera zestaw zadań i rozwiązań z kursu **PCAP: Programming Essentials in Python**.
 
